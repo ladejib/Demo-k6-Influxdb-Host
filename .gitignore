@@ -1,1 +1,3 @@
 k6-influxdb-build/
+.docker-compose.yaml
+.gitignore
